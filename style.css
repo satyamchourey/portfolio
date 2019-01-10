@@ -1,0 +1,38 @@
+main{
+    background-image: url("./assets/bg/kelli-tungay-324329-unsplash.jpg");
+    background-size: cover;
+    margin: auto 0;
+    text-align: center;
+    /* height: -webkit-fill-available; */
+
+    /* background-attachment: fixed; */
+    background-position: center;
+    background-repeat: repeat;
+}
+.banner{
+    background-image: url("./assets/banner.jpg");
+    background-size: cover;
+    background-position: 0 545px;
+    height: auto;
+}
+.heading{
+    font-family: 'Indie Flower', cursive;
+
+}
+.gFont{
+    font-family: 'Shadows Into Light', cursive;
+}
+.text{
+    margin-left: 30%;
+}
+.work{
+border-radius: 10px;
+}
+
+.logo{
+    height: 50px;
+}
+.teamContainer, .team{
+    padding: 20px;
+    display: -webkit-inline-box;
+}
