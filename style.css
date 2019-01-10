@@ -10,7 +10,7 @@ main{
     background-repeat: repeat;
 }
 .banner{
-    background-image: url("./assets/banner.jpg");
+    background-image: url("/assets/banner.JPG");
     background-size: cover;
     background-position: 0 545px;
     height: auto;
