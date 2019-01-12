@@ -10,7 +10,7 @@ main{
     background-repeat: repeat;
 }
 .banner{
-    background-image: url("https://github.com/satyamchourey/portfolio/blob/2031c3623ba24fca3ece854e600154e2d563b943/assets/banner.JPG");
+    background-image: url("https://satyamchourey.github.io/portfolio/assets/banner.JPG");
     background-size: cover;
     background-position: 0 545px;
     height: auto;
