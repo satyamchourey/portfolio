@@ -10,11 +10,19 @@ main{
     background-repeat: repeat;
 }
 .banner{
-    background-image: url("https://satyamchourey.github.io/portfolio/assets/banner.JPG");
+    /* background-image: url("https://satyamchourey.github.io/portfolio/assets/banner.JPG"); */
+    background-image: url('./newBanner.JPG');
     background-size: cover;
-    background-position: 0 545px;
+    background-position: center;
     height: auto;
 }
+
+@media screen and (min-width: 480px){
+    .banner{
+        height:-webkit-fill-available ;
+    }
+}
+
 .heading{
     font-family: 'Indie Flower', cursive;
 
