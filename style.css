@@ -22,7 +22,29 @@ main{
         height:-webkit-fill-available ;
     }
 }
-
+.sliderP{
+    background-image: url('./assets/bg/joanna-kosinska-129039-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    height: auto;
+ display: inline-block;
+ overflow: hidden;
+}
+.alfred {
+    height: 300px;
+    margin-left: 24%;
+}
+.iot{
+    height: 300px;
+    margin-left: 35%;
+}
+.collegeApp{
+    height: auto;
+    margin-left: 21%;
+}
+.gap{
+    height: 80px;
+}
 .heading{
     font-family: 'Indie Flower', cursive;
 
@@ -43,4 +65,7 @@ border-radius: 10px;
 .teamContainer, .team{
     padding: 20px;
     display: flex;
+}
+.team{
+    margin: 0 auto;
 }
